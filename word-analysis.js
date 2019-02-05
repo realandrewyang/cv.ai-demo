@@ -8,4 +8,6 @@ function repeated_pairs(correlation_matrix, words) {
       }
     }
   }
+
+  return 
 }
